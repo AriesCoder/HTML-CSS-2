@@ -1,0 +1,47 @@
+body{
+    margin: 0
+}
+.first{
+    box-sizing: border-box;
+    background-color: rgb(190, 186, 186);
+    width: 100%;
+    height: 80px;
+    padding: 15px;
+    
+}
+.square{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(8, 171, 247);
+    align-items: flex-start;
+
+}
+.second{
+    background-color:rgb(8, 171, 247) ;
+    height: 25vh;
+    width: 100%;
+}
+.third{
+    background-color:rgb(8, 247, 155) ;
+    height: 25vh;
+    width: 100%;
+}
+.four{
+    background-color:rgb(70, 192, 14) ;
+    height: 25vh;
+    width: 100%;
+}
+.fifth{
+    
+    background-color:rgb(194, 188, 8) ;
+    height: 25vh;
+    width: 100%;
+}
+.fifth button{
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    background-color: black;
+    color: white;
+    border-radius: 50%;
+}

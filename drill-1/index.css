@@ -1,0 +1,31 @@
+/* section{
+    background-color: rgb(233, 94, 94);
+    height: 1000px;
+    width: cover;
+    
+} */
+body{
+    position: relative;
+    color: rgb(253, 254, 255);
+    width: cover;
+    height: 100vh;
+    background: rgb(197, 197, 197);
+}
+#div-2{
+    width: 100%;
+    height: 20vh;
+    background-color: #444444;
+}
+#div-3{
+    background-color: #ffffff;
+    margin: 0 auto;
+    width: 75%;
+    height: 70vh;
+}
+#div-4{
+    background-color: #222222;
+    margin: 0 auto;
+    width: 75%;
+    height: 10vh;
+    
+}
